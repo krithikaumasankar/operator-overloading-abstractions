@@ -1,8 +1,8 @@
-# 🚀 Advanced Operator Overloading in Python
+# 🚀 Operator Overloading Abstractions
 
-A professional collection of Python programs demonstrating the implementation of **Operator Overloading** and **Object-Oriented Programming (OOP)** concepts using custom classes and magic methods.
+A professional collection of Python programs demonstrating advanced **Operator Overloading** and **Object-Oriented Programming (OOP)** concepts using custom classes and Python magic methods.
 
-This repository focuses on designing mathematical and string-based models with Python special methods such as `__add__`, `__sub__`, `__mul__`, and `__eq__`.
+This repository focuses on building mathematical and string-based abstractions through special methods such as `__add__()`, `__sub__()`, `__mul__()`, `__eq__()`, and `__str__()`.
 
 ---
 
@@ -33,7 +33,7 @@ This project contains practical implementations of operator overloading for:
 # 🗂️ Project Structure
 
 ```bash
-advanced-operator-overloading-python/
+operator-overloading-abstractions/
 │
 ├── polynomial_overloading/
 │   └── polynomial_operator_engine.py
@@ -105,7 +105,8 @@ This repository is designed to help understand:
 - ✅ Custom implementation of operators in Python
 - ✅ Mathematical modeling using classes
 - ✅ Real-world applications of magic methods
-- ✅ Clean OOP-based program design
+- ✅ Clean OOP-based program architecture
+- ✅ Designing reusable computational abstractions
 
 ---
 
@@ -114,13 +115,13 @@ This repository is designed to help understand:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/advanced-operator-overloading-python.git
+git clone https://github.com/your-username/operator-overloading-abstractions.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd advanced-operator-overloading-python
+cd operator-overloading-abstractions
 ```
 
 Run any module:
@@ -131,7 +132,7 @@ python polynomial_operator_engine.py
 
 ---
 
-# 🌟 Sample Applications
+# 🌟 Applications
 
 - 🧠 Algebraic Computation Systems
 - 📊 Mathematical Modeling
